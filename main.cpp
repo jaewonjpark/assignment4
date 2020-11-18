@@ -1,8 +1,8 @@
-// Jaewon Park / Meghana Shastri
-// jaepark@chapman.edu / shastri@chapman.edu
-// 2328614     / 2317343
-// CPSC 350 - 02 / CPSC 350 - 02
-// Assignment #4 / Assignment #4
+// Jaewon Park
+// jaepark@chapman.edu
+// 2328614
+// CPSC 350 - 01
+// Assignment #4 
 
 #include <iostream>
 #include <iostream>
